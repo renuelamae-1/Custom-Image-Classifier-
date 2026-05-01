@@ -25,10 +25,10 @@ Validation set → used to test performance during training
 This prevents overfitting and ensures the model works on unseen data.
 
 3. Performance Analysis
-  a.What accuracy did your model achieve?
+  a. What accuracy did your model achieve?
 - The model achieved a validation accuracy of approximately 85%–90% after the first training and improved to around 90%–94% after applying data augmentation and dropout. This shows that the improvements helped the model generalize better.
 
-  b.How did the number of images affect the model’s performance?
+  b. How did the number of images affect the model’s performance?
 - The number of images had a significant impact on performance. Since each class contains many images, the model was able to learn more features and patterns effectively. A larger dataset reduced overfitting and improved accuracy, while fewer images would have resulted in poor generalization.
 
 4. Critical Thinking
