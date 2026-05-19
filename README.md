@@ -2,8 +2,7 @@
 
 ## Uploaded Dataset to Google Drive: https://drive.google.com/drive/folders/1hIYYSTh3beTMG-51eUyUxH425qakfQLH?usp=sharing
 
-## Mounted G-Drive in Colab: [https://colab.research.google.com/drive/1Qoag2-vCTobnEj1105u9hWobI7JP47XO?usp=sharing]
-
+## Mounted G-Drive in Colab: https://colab.research.google.com/drive/1Hq3IwmVaByYMt0YVsE4rgxHDw8JNMK61?usp=sharing
 ## Guide Questions (Student Reflection & Explanation)
 ### 1. Dataset Preparation
 ####  a. How did you organize your dataset in Google Drive?
